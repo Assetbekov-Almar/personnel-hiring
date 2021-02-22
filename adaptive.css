@@ -1,0 +1,2430 @@
+@media screen and (max-width: 1366px) {
+	/*header*/
+	body,
+	.section-content {
+		width: 1366px;
+	}
+
+	.header .section-content .header-logo-and-contacts,
+	.header .section-content #header-slogan {
+		padding:0 140px;
+	}
+
+	.header .header-logo-and-contacts #logo {
+		margin-left: 105px;
+		margin-right: 0;
+	}
+
+	.header .header-logo-and-contacts .contact-data {
+		margin: 40px 30px 0 0;
+	}
+
+	.header-navbar .service-dropdown {
+		left: 83px;
+	}
+
+	/*service-section*/
+	.service-section.section-content {
+		padding: 15px 100px 10px 170px;
+	}
+
+	.service-section .personnel-navbar ul {
+		margin-bottom: 32px;
+	}
+
+	.service-section .service-content-container {
+		margin: 22px 0 80px 0;
+	}
+
+	.service-section .personnel-position {
+		font-size: 30px;
+	}
+
+	.service-section .service-content-container .subsection {
+		margin: 0 20px;
+	}
+
+	.service-section .service-content-section {
+		margin: 27px 0;
+	}
+
+	.service-section .service-form-data .client-info {
+		height: 130px;
+	}
+
+	.service-section .service-form-data .client-info input {
+		padding: 20px;
+		height: 55px;
+		font-size: 16px;
+	}
+
+	.service-section .service-form-data textarea {
+		margin-top: 20px;
+		height: 130px;
+		font-size: 16px;
+		border-radius: 28px;
+	}
+
+	.service-section .service-paragraph p {
+		font-size: 15px;
+	}
+
+	.service-section .personnel-navbar li {
+		margin: 4px 4px;
+	}
+
+	.service-section .personnel-navbar a {
+		font-size: 17px;
+	}
+
+	.service-section .submit-form .submit-btn {
+		width: 170px;
+		height: 45px;
+		font-size: 17px;
+	}
+
+	/*footer*/
+	.footer .section-content {
+		padding: 0 150px 0 140px;
+	}
+
+	.footer .phone-number-and-emails {
+		width: 800px;
+		-moz-box-pack: justify;
+		-webkit-justify-content: space-between;
+		justify-content: space-between;
+	}
+
+	.footer .phone-numbers,
+	.footer .emails {
+		width: 390px;
+	}
+
+	.footer .phone-number-and-emails .contact .contact-icon:last-child {
+		margin-right: 7px;
+	}
+
+	.footer .contact-data .contact svg {
+		width: 30px;
+		height: 30px;
+		margin: 0 4px;
+	}
+
+	.footer .contact-data a {
+		font-size: 23px;
+	}
+
+	.footer .contact-media .media-title {
+		font-size: 17px;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	/*header*/
+	body,
+	.section-content {
+		width: 1024px;
+	}
+
+	.header {
+		height: 550px;
+	}
+
+	.header .header-navbar {
+		margin: 40px auto 70px auto;
+	}
+
+	.header .header-logo-and-contacts #logo {
+		font-size: 41px;
+		min-width: 280px;
+		margin-left: 110px;
+		margin-right: 0;
+	}
+
+	.header .section-content .header-logo-and-contacts {
+		padding: 0 50px;
+	}
+
+	.header .header-logo-and-contacts .contact-data {
+		margin: 40px 45px 0 0;
+	}
+
+	.header .header-navbar-list a {
+		font-size: 22px;
+		padding: 10px 17px;
+	}
+
+	.header .section-content #header-slogan {
+		padding: 0;
+	}
+
+	.header-navbar .service-dropdown {
+		left: 25.6px;
+		line-height: 37px;
+		top: 55px;
+		width: 95%;
+	}
+
+	.header-navbar .service-dropdown li a {
+		font-size: 17px;
+		padding: 0 8px;	
+	}
+
+	.header .section-content #header-slogan {
+		padding: 0 44px;
+		width: 100%;
+	}
+
+	.header #header-slogan {
+		margin-top: 0;
+	}
+
+	.header #header-slogan h1 {
+		font-size: 46px;
+	}
+
+	/*personnel-section*/
+	.personnel-section .section-content {
+		padding: 0px 33px;
+	}
+
+	.personnel-section .personnel-position-img {
+		border: rgb(176, 204, 176) 11px solid;
+	}
+
+	.personnel-section .personnel-list .personnel-data {
+		margin: 20px 0;
+	}
+
+	.personnel-section .personnel-options-btns .option-btn {
+		margin: 15px 20px;
+		width: 45%;
+	}
+
+	.personnel-section .choose-personnel-btn button,
+	.personnel-section .fill-cv-btn button {
+		padding: 25px 0;
+		font-size: 29px;
+	}
+
+	/*about-company-section*/
+	.about-company-section .about-company-data {
+		padding: 0 60px 0 80px;
+	}
+
+	.about-company-section #about-company-title {
+		font-size: 41px;
+		padding-bottom: 40px;
+	}
+
+	.about-company-section .about-company-data .about-company-header h3 {
+		font-size: 27px;
+	}
+
+	.about-company-section .about-company-trait .about-company-trait-info {
+		font-size: 14px;
+	}
+
+	/*contact-us-section*/
+	.contact-us-section .section-content {
+		padding: 0 80px;
+	}
+
+	#contact-us-form .client-info input {
+		height: 60px;
+		font-size: 22px;
+	}
+
+	#contact-us-form .client-question-textarea textarea {
+		font-size: 22px;
+	}
+
+	.contact-us-section .submit-form .submit-btn {
+		width: 175px;
+		font-size: 22px;
+	}
+
+	/*service-section*/
+	.service-section.section-content {
+		padding: 15px 30px 10px 95px;
+	}
+
+	.service-section .personnel-navbar li {
+		margin: 3px 3px;
+	}
+
+	.service-section .personnel-navbar a {
+		font-size: 13px;
+	}
+
+	.service-section .personnel-navbar ul {
+		margin-bottom: 28px;
+	}
+
+	.service-section .service-content-container {
+		margin: 22px 0 80px 0;
+	}
+
+	.service-section .service-form-data .client-info input:first-child,
+	.service-section .service-form-data .client-info input:nth-child(2) {
+		margin: 7px 5px 0 0;
+	}
+
+	.service-section .service-form-data .client-info input:nth-child(n+3) {
+		margin: 7px 0 0 5px;
+	}
+	
+	.service-section .personnel-position {
+		font-size: 27px;
+	}
+
+	.service-section .service-content-container .subsection {
+		margin: 0 15px;
+	}
+
+	.service-section .service-content-section {
+		margin: 23px 0;
+	}
+
+	.service-section .service-form-data .client-info {
+		height: 116px;
+	}
+
+	.service-section .service-form-data .client-info input {
+		padding: 18px;
+		height: 48px;
+		font-size: 15px;
+	}
+
+	.service-section .service-form-data textarea {
+		margin-top: 15px;
+		padding: 18px;
+		height: 116px;
+		font-size: 15px;
+		border-radius: 23px;
+	}
+
+	.service-section .service-paragraph p {
+		font-size: 12px;
+	}
+
+	.service-section .submit-form .submit-btn {
+		width: 150px;
+		height: 40px;
+		font-size: 15px;
+	}
+
+	/*about-company-page*/
+	.about-company .header {
+		height: 450px;
+	}
+
+	.about-company .about-company-section .section-content {
+		padding: 40px 25px 70px 85px;
+	}
+
+	.about-company .section-content .about-company-title {
+		font-size: 32px;
+		margin-bottom: 25px;
+	}
+
+	.about-company .section-content .about-company-info {
+		padding: 0 25px;
+	}
+
+	.about-company .section-content .about-company-info .about-company-paragraph {
+		margin: 0 10px;
+	}
+
+	.about-company .section-content .about-company-info p {
+		font-size: 12px;
+	}
+
+	/*footer*/
+	.footer .section-content {
+		padding: 0 70px 0 90px;
+	}
+
+	.footer .phone-number-and-emails {
+		width: 600px;
+		-moz-box-pack: justify;
+		-webkit-justify-content: space-between;
+		justify-content: space-between;
+	}
+
+	.footer .phone-numbers,
+	.footer .emails {
+		width: 290px;
+	}
+
+	.footer .phone-number-and-emails .contact .contact-icon:last-child {
+		margin-right: 5px;
+	}
+
+	.footer .contact-data .contact svg {
+		width: 28px;
+		height: 28px;
+		margin: 0 4px;
+	}
+
+	.footer .contact-data a {
+		font-size: 20px;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	/*header*/
+	body,
+	.section-content {
+		width: 768px;
+	}
+
+	.header {
+		height: 480px;
+	}
+
+	.header .header-navbar {
+		margin: 30px auto 55px auto;
+	}
+
+	.header .header-logo-and-contacts #logo {
+		font-size: 37px;
+		min-width: 260px;
+		margin-left: 60px;
+		margin-right: 0;
+	}
+	
+	.header .section-content .header-logo-and-contacts {
+		padding: 0 50px;
+	}
+
+	.header .header-logo-and-contacts .contact-data {
+		margin: 40px 10px 0 0;
+	}
+
+	.header .header-navbar-list a {
+		font-size: 19px;
+		padding: 10px 8px;
+	}
+
+	.header .section-content #header-slogan {
+		padding: 0;
+	}
+
+	.header-navbar .service-dropdown {
+		left: 7.7px;
+		line-height: 30px;
+		top: 45px;
+		width: 98%;
+	}
+
+	.header-navbar .service-dropdown li a {
+		font-size: 16px;
+		padding: 0 8px;
+	}
+
+	.header .section-content #header-slogan {
+		padding: 0 44px;
+		width: 100%;
+	}
+
+	.header #header-slogan {
+		margin-top: 0;
+	}
+
+	.header #header-slogan h1 {
+		font-size: 33px;
+	}
+
+	/*personnel-section*/
+	.personnel-section {
+		padding: 30px 0;
+	}
+
+	.personnel-section .section-content {
+		padding: 0 33px;
+	}
+
+	.personnel-section .personnel-list {
+		padding: 0;
+	}
+
+	.personnel-section .personnel-list .personnel-data {
+		margin: 15px 0;
+	}
+
+	.personnel-section .personnel-position-img {
+		height: 170px;
+		width: 170px;
+		border: rgb(176, 204, 176) 9px solid;
+	}
+
+	.personnel-section .personnel-list .personnel-position {
+		font-size: 22px;
+	}
+
+	.personnel-section .personnel-options-btns {
+		margin: 15px 0;
+		padding: 0 10px;
+	}
+
+	.personnel-section .personnel-options-btns .option-btn {
+		margin: 15px 20px;
+		width: 45%;
+	}
+
+	.personnel-section .choose-personnel-btn button,
+	.personnel-section .fill-cv-btn button {
+		padding: 22px 0;
+		font-size: 25px;
+	}
+
+	/*about-company-section*/
+	.about-company-section .about-company-data {
+		padding: 0 55px 0 63px;
+	}
+
+	.about-company-section #about-company-title {
+		font-size: 32px;
+		padding-bottom: 30px;
+	}
+
+	.about-company-section .about-company-data .about-company-header h3 {
+		font-size: 20px;
+	}
+
+	.about-company-section .about-company-trait .about-company-trait-info {
+		font-size: 13px;
+	}
+
+	.about-company-section .about-company-data .about-company-header {
+		margin-bottom: 15px;
+	}
+
+	.about-company-section .about-company-data .about-company-header-img {
+		width: 30px;
+		height: 30px;
+		margin-right: 20px;
+	}
+
+	.about-company-section .about-company-trait {
+		margin: 12px 19px;
+	}
+
+	/*contact-us-section*/
+	.contact-us-section .section-content {
+		padding: 0 63px;
+	}
+
+	#contact-us-form .client-info {
+		margin-right: 25px;
+	}
+
+	#contact-us-form .client-info input {
+		padding: 15px;
+		height: 45px;
+		margin: 7px 0;
+		font-size: 17px;
+	}
+
+	#contact-us-form .client-question-textarea textarea {
+		font-size: 17px;
+		color: #868686;
+		padding: 15px;
+	}
+
+	.service-section .submit-form .submit-btn {
+		margin: 8px 0 0 0;
+	}
+
+	/*service-section*/
+	.service-section.section-content {
+		padding: 12px 20px 10px 60px;
+	}
+
+	.service-section .service-content-container {
+		margin: 13px 0 60px 0;
+	}
+
+	.service-section .personnel-navbar li {
+		margin: 2px 2px;
+	}
+
+	.service-section .personnel-navbar a {
+		font-size: 11px;
+		padding: 3px 5px;
+	}
+
+	.service-section .personnel-navbar ul {
+		margin-bottom: 22px;
+	}
+
+	.service-section .service-form-data .client-info input:first-child,
+	.service-section .service-form-data .client-info input:nth-child(2) {
+		margin: 5px 3px 0 0;
+	}
+
+	.service-section .service-form-data .client-info input:nth-child(n+3) {
+		margin: 5px 0 0 3px;
+	}
+
+	.service-section .personnel-position {
+		font-size: 21px;
+	}
+
+	.service-section .service-content-container .subsection {
+		margin: 0 10px;
+	}
+
+	.service-section .service-content-section {
+		margin: 15px 0;
+	}
+
+	.service-section .service-form-data .client-info {
+		height: 90px;
+	}
+
+	.service-section .service-form-data .client-info input {
+		padding: 13px;
+		height: 36px;
+		font-size: 11px;
+	}
+
+	.service-section .service-form-data textarea {
+		padding: 13px;
+		margin-top: 10px;
+		height: 90px;
+		font-size: 11px;
+		border-radius: 20px;
+	}
+
+	.service-section .service-paragraph p {
+		font-size: 9px;
+	}
+
+	.service-section .submit-form .submit-btn {
+		width: 110px;
+		height: 30px;
+		font-size: 11px;
+	}
+
+	/*about-company-page*/
+	.about-company .header {
+		height: 410px;
+	}
+
+	.about-company .about-company-section .section-content {
+		padding: 30px 15px 60px 55px;
+	}
+
+	.about-company .section-content .about-company-title {
+		font-size: 27px;
+		margin-bottom: 20px;
+	}
+
+	.about-company .section-content .about-company-info {
+		padding: 0 20px;
+	}
+
+	.about-company .section-content .about-company-info .about-company-paragraph {
+		margin: 0 8px;
+	}
+
+	.about-company .section-content .about-company-info p {
+		font-size: 9px;
+	}
+
+	/*footer*/
+	.footer .section-content {
+		padding: 0 60px 0 70px;
+	}
+
+	.footer .phone-number-and-emails {
+		width: 428px;
+		-moz-box-pack: justify;
+		-webkit-justify-content: space-between;
+		justify-content: space-between;
+	}
+
+	.footer .phone-numbers,
+	.footer .emails {
+		width: 210px;
+	}
+
+	.footer .phone-number-and-emails .contact .contact-icon:last-child {
+		margin-right: 5px;
+	}
+
+	.footer .contact-data .contact svg {
+		width: 23px;
+		height: 23px;
+		margin: 0 4px;
+	}
+
+	.footer .contact-data a {
+		font-size: 18px;
+	}
+}
+
+@media screen and (max-width: 425px) {
+	/*header*/
+	body,
+	.section-content {
+		width: 425px;
+		height: 100%;
+	}
+
+	.header {
+		height: 250px;
+		padding: 10px 0;
+	}
+
+	.header .section-content {
+		position: relative;
+		display: -moz-box;
+		display: -webkit-flex;
+		display: flex;
+		-moz-box-direction: normal;
+		-moz-box-orient: vertical;
+		-webkit-flex-direction: column;
+		flex-direction: column;
+		-moz-box-pack: justify;
+		-webkit-justify-content: space-between;
+		justify-content: space-between;
+	}
+
+	.header .section-content .header-logo-and-contacts {
+		-webkit-flex-wrap: wrap;
+		-moz-flex-wrap: wrap;
+		flex-wrap: wrap;
+		padding: 0 28.5px 0 62px;
+	}
+
+	.header .header-logo-and-contacts #adaptive-logo {
+		display: -moz-box;
+		display: -webkit-flex;
+		display: flex;
+		min-width: 115px;
+		height: 45px;
+		font-size: 25px;
+		overflow: hidden;
+		margin: 0;
+	}
+
+	.header-logo-and-burger-menu {
+		margin-bottom: 17px;
+		width: 100%;
+		display: -moz-box;
+		display: -webkit-flex;
+		display: flex;
+		-moz-box-pack: justify;
+		-webkit-justify-content: space-between;
+		justify-content: space-between;
+		-moz-box-align: end;
+		-webkit-align-items: flex-end;
+		align-items: flex-end;
+	}
+
+	.header-burger-menu {
+		margin-bottom: 3px;
+		display: block;
+		position: relative;
+		height: 24px;
+		min-width: 28px;
+		width: 28px;
+	}
+
+	.header-burger-menu span {
+		border-radius: 40px;
+		position: absolute;
+		background-color: #88BB24;
+		width: 100%;
+		height: 6px;
+		left: 0;
+		top: 9px;
+	}
+
+	.header-burger-menu::before,
+	.header-burger-menu::after {
+		border-radius: 40px;
+		content: " ";
+		position: absolute;
+		background-color: #88BB24;
+		width: 100%;
+		height: 6px;
+		left: 0;
+	}
+
+	.header-burger-menu::before {
+		top: 0;
+	}
+
+	.header-burger-menu::after {
+		bottom: 0;
+	}
+
+	.header .header-logo-and-contacts .contact-data {
+		min-width: 150px;
+		margin: 0;
+	}
+
+	.header .header-logo-and-contacts .phone-number-and-email-data {
+		width: 260px;
+		margin-top: 0;
+	}
+
+	.header .header-logo-and-contacts .contact {
+		margin: 1px 0;
+	}
+
+	.header .contact-data .whatsapp-viber.contact {
+		margin-top: 0;
+		order: -1;
+	}
+
+	.header .header-logo-and-contacts .contact .contact-icon {
+		width: 22px;
+		height: 22px;
+		margin: 0 3px;
+	}
+
+	.header .header-logo-and-contacts .contact .contact-link {
+		width: 78%;
+	}
+
+	.header .header-logo-and-contacts .contact .contact-icons {
+		width: 22%;
+	}
+
+	.header .header-logo-and-contacts .contact .contact-icon svg {
+		width: auto;
+	}
+
+	.header .header-logo-and-contacts .phone.contact .contact-icon {
+		width: 21px;
+		height: 21px;
+	}
+
+	.header .header-logo-and-contacts .contact .contact-icon:last-child {
+		margin-right: 7px;
+	}
+
+	.header .contact-data .phone.contact {
+		margin-top: 1px;
+	}
+
+	.header .header-logo-and-contacts .contact .contact-link a {
+		font-size: 21px;
+	}
+
+	.header .section-content #header-slogan {
+		padding: 0 44px;
+		width: 100%;
+	}
+
+	.header .header-logo-and-contacts .phone-number-and-email-container.burger-menu-element.burger-menu-open {
+		display: block;
+		position: absolute;
+		z-index: 4;
+		background-color: #F5F5F5;
+		top: 110px;
+		left: 0;
+		width: 80%;
+		height: 120px;
+	}
+
+	.header .header-logo-and-contacts .phone-number-and-email-container.burger-menu-open .phone-number-and-email-data {
+		margin-left: 20px;
+	}
+
+	.header #header-slogan {
+		margin-top: 0;
+	}
+
+	.header #header-slogan h1 {
+		font-size: 28px;
+	}
+
+	.header .header-burger-navbar-bg,
+	.header .header-logo-and-contacts .logo-container,
+	.header .header-navbar,
+	.header .header-logo-and-contacts .contact-media {
+		display: none;
+	}
+
+	.header .header-burger-navbar-bg.burger-menu-element.burger-menu-open {
+		display: block;
+		position: fixed;
+		width: 100%;
+		height: 100%;
+		top: 0;
+		left: 0;
+		z-index: 2;
+		background-color: rgba(255, 255, 255, 0.5);
+	}
+
+	.header .header-logo-and-contacts .logo-container.burger-menu-element.burger-menu-open {
+		position: absolute;
+		background-color: #F5F5F5;
+		top: -10px;
+		left: 0;
+		width: 80%;
+		height: 120px;
+		z-index: 4;
+		display: block;
+	}
+
+	.header .header-logo-and-contacts #logo {
+		display: -moz-box;
+		display: -webkit-flex;
+		display: flex;
+		position: absolute;
+		z-index: 4;
+		min-width: 130px;
+		margin-left: 0;
+		top: 30px;
+		left: 30px;
+		font-size: 20px;
+		height: 70px;
+	}
+
+	.header .header-navbar.burger-menu-element.burger-menu-open {
+		display: block;
+		height: 550px;
+		position: absolute;
+		z-index: 4;
+		top: 230px;
+		width: 80%;
+		margin: 0;
+		border-right: 7px solid #88BB24;
+		background-color: #fff;
+	}
+
+	.header .header-navbar .smile,
+	.header-navbar .service-dropdown {
+		display: none;
+	}
+
+	.header .header-navbar .header-navbar-list {
+		-moz-box-direction: normal;
+		-moz-box-orient: vertical;
+		-webkit-flex-direction: column;
+		flex-direction: column;
+		-moz-box-align: start;
+		-webkit-align-items: flex-start;
+		align-items: flex-start;
+		height: auto;
+	}
+
+	.header .header-navbar-list li {
+		width: 100%;
+		text-align: left;
+		border-bottom: 1px solid #C6C6C5;
+	}
+
+	.header .header-navbar-list a {
+		padding: 7px 0 15px 53px;
+		font-size: 21px;
+	}	
+
+	.header .header-navbar-list li:hover,
+	.header .header-navbar-list li:hover a,
+	.header .header-navbar-list a:hover {
+		color: #fff;
+		background-color: #ED7905;
+	}
+
+	.header .header-logo-and-contacts .contact-media.burger-menu-element.burger-menu-open {
+		display: block;
+		position: absolute;
+		z-index: 4;
+		left: 0;
+		top: 780px;
+		width: 80%;
+		height: 110px;
+		margin: 0;
+		padding: 25px 0 30px 70px;
+		background-color: #F5F5F5;
+	}
+
+	.header .header-logo-and-contacts .contact-media .media-title {
+		margin: 0 0 10px 0;
+	}
+
+	.header .header-logo-and-contacts .contact-media a,
+	.header .header-logo-and-contacts .contact-media svg {
+		height: 27px;
+		transition: all .2s
+	}
+
+	.header .header-logo-and-contacts .contact-media-ref {
+		height: 34px;
+		display: -moz-box;
+		display: -webkit-flex;
+		display: flex;
+		-moz-box-align: center;
+		-webkit-align-items: center;
+		align-items: center;
+	}
+
+	.header .header-logo-and-contacts .contact-media-ref a {
+		margin: 0 5px;
+	}
+
+	.header .header-logo-and-contacts .contact-media a:hover,
+	.header .header-logo-and-contacts .contact-media a:hover svg {
+		height: 34px;
+	}
+
+	/*personnel-section*/
+	.personnel-section {
+		padding: 18px 0;
+	}
+
+	.personnel-section .section-content {
+		padding: 0 33px;
+	}
+
+	.personnel-section .personnel-list .personnel-data {
+		margin: 8px 0;
+	}
+
+	.personnel-section .personnel-position-img {
+		height: 90px;
+		width: 90px;
+		border: rgb(176, 204, 176) 7px solid;
+	}
+
+	.personnel-section .personnel-list .personnel-position {
+		font-size: 16px;
+	}
+
+	.personnel-section .personnel-options-btns {
+		margin: 15px 0;
+		padding: 0 35px;
+	}
+
+	.personnel-section .personnel-options-btns .option-btn {
+		width: 100%;
+		margin: 8px 0;
+	}
+
+	.personnel-section .personnel-options-btns .option-btn:first-child {
+		margin-top: 0;
+	}
+
+	.personnel-section .personnel-options-btns .option-btn:last-child {
+		margin-bottom: 0;
+	}
+
+	.personnel-section .choose-personnel-btn button,
+	.personnel-section .fill-cv-btn button {
+		padding: 17px 0;
+		font-size: 21px;
+	}
+
+	.personnel-section #personnel-modal {
+		width: 375px;
+		height: 375px;
+		box-shadow: 0 0 90px 150px #fff;
+	}
+
+	.personnel-section #personnel-modal #close-personnel-modal {
+		top: 35px;
+		right: 27px;
+		width: 45px;
+		height: 45px;
+		font-size: 47px;
+	}
+
+	.personnel-section #personnel-modal .personnel-modal-title {
+		font-size: 28px;
+		margin-bottom: 28px;
+	}
+
+	.personnel-section #personnel-modal textarea#personnel-modal-requirements {
+		height: 90px;
+		margin-bottom: 14px;
+	}
+
+	.personnel-section #personnel-modal .submit-personnel-modal-form input {
+		padding: 14px 25px;
+		font-size: 19px;
+	}
+
+	/*about-company-section*/
+	.about-company-section {
+		padding: 20px 0;
+	}
+
+	.about-company-section .section-content {
+		position: relative;
+		overflow: hidden;
+	}
+	
+	.about-company-section #about-company-title {
+		display: none;
+	}
+
+	.about-company-section .about-company-data {
+		padding: 0;
+		height: 180px;
+		transition: transform 0.2s ease-in;
+	}
+
+	.about-company-section .about-company-trait {
+		margin: 0;
+		width: 100%;
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		background-color: #F7F3EB;
+		padding: 0 25px;
+		overflow-y: auto;
+	}
+
+	.about-company-section .about-company-trait .about-company-trait-info {
+		font-size: 14px;
+	}
+
+	.about-company-section .about-company-trait .about-company-trait-info {
+		padding-right: 7px;	
+	}
+
+	.about-company-section .about-company-data .about-company-header {
+		margin-top: 10px;
+	}
+
+	.about-company-section .section-content .slide-btn {
+		position: absolute;
+		top: 15px;
+		padding: 0;
+		font-size: 30px;
+		color: #868686;
+	}
+
+	.about-company-section .section-content .previous-slide-btn.slide-btn {
+		left: 6px;
+	}
+
+	.about-company-section .section-content .next-slide-btn.slide-btn {
+		right: 20px;
+	}
+
+	.about-company-section .about-company-data .about-company-header h3 {
+		font-size: 28px;
+	}
+
+	.about-company-section .slide-btn {
+		display: block;
+	}
+
+	.about-company-section .slide-btn.hidden-slide-btn {
+		display: none
+	}
+
+	/*contact-us-section*/
+	.contact-us-section {
+		padding: 30px 0;
+	}
+
+	.contact-us-section .section-content {
+		padding: 0 68px;
+	}
+
+	.contact-us-section #ask-question-btn {
+		width: 100%;
+		display: block;
+	}
+
+	.contact-us-section #ask-question-btn button {
+		width: 100%;
+		font-size: 21px;
+		padding: 17px 0;
+		border-radius: 55px;
+		border: none;
+		background-color: #ECECEC;
+		color: #868686;
+	}
+
+	.contact-us-section .contact-us-modal-bg,
+	.service-section .service-content-section .service-modal-bg {
+		position: fixed;
+		z-index: 1;
+		left: 0;
+		top: 0;
+		width: 100%;
+		height: 100%;
+		display: -moz-box;
+		display: -webkit-flex;
+		display: flex;
+		-moz-box-pack: center;
+		-webkit-justify-content: center;
+		justify-content: center;
+		-moz-box-align: center;
+		-webkit-align-items: center;
+		align-items: center;
+		display: none;	
+	}
+
+	.contact-us-section #contact-us-modal #close-contact-us-modal,
+	.service-section .service-content-section #service-modal #close-service-modal {
+		width: 40px;
+		height: 40px;
+		border-radius: 50%;
+		border: none;
+		font-size: 35px;
+		display: -moz-box;
+		display: -webkit-flex;
+		display: flex;
+		-moz-box-pack: center;
+		-webkit-justify-content: center;
+		justify-content: center;
+		-moz-box-align: center;
+		-webkit-align-items: center;
+		align-items: center;
+		color: #D3CDBE;
+		cursor: pointer;
+		position: absolute;
+		top: 0;
+		right: 0;
+		color: #D2CDBD;
+	}
+
+	.contact-us-section #contact-us-modal,
+	.service-section .service-content-section #service-modal {
+		position: relative;
+		width: 360px;
+		height: auto;
+		display: -moz-box;
+		display: -webkit-flex;
+		display: flex;
+		-moz-box-direction: normal;
+		-moz-box-orient: vertical;
+		-webkit-flex-direction: column;
+		flex-direction: column;
+		-moz-box-align: end;
+		-webkit-align-items: flex-end;
+		align-items: flex-end;
+	}
+
+	.contact-us-section #contact-us-form,
+	.service-section .service-content-section #service-form {
+		width: 100%;
+		padding: 60px 40px 0 40px;	
+	}
+
+	.contact-us-section #contact-us-form .contact-us-form-data,
+	.service-section .service-content-section #service-form .service-form-data {
+		-moz-box-direction: normal;
+		-moz-box-orient: vertical;
+		-webkit-flex-direction: column;
+		flex-direction: column;
+		background-color: #fff;
+		border-radius: 50%;
+		width: 100%;
+		height: 100%;
+		position: relative;
+	}
+
+	.contact-us-section #contact-us-form .contact-us-form-data .circular-background,
+	.service-section .service-content-section #service-form .service-form-data .circular-background {
+		position: absolute;
+		top: 18px;
+		left: 0;
+		z-index: -1;
+		width: 280px;
+		height: 280px;
+		border-radius: 50%;
+		background-color: #fff;
+		box-shadow: 0 0 120px 190px #fff;
+	}
+
+	#contact-us-form .client-info,
+	.service-section .service-content-section #service-form .client-info {
+		margin-right: 0;
+		margin-bottom: 11px
+	}
+
+	#contact-us-form .client-info input,
+	.service-section .service-content-section #service-form .client-info input {
+		height: 45px;
+		margin: 4px 0;
+	}
+
+	#contact-us-form .client-question-textarea textarea,
+	.service-section .service-content-section #service-form .client-wishes-textarea textarea {
+		height: 150px;
+		padding: 10px 20px;
+		color: #868686;
+	}
+
+	.contact-us-section .submit-form .submit-btn,
+	.service-section .submit-form .submit-btn {
+		height: 50px;
+		width: 175px;
+		font-size: 20px;
+		margin: 0;
+	}
+
+	.contact-us-section .submit-form,
+	.service-section .submit-form {
+		margin-top: 12px;
+	}
+
+	/*service-section*/
+	.service .header {
+		height: 180px;
+	}
+
+	.service .header .section-content #header-slogan,
+	.service-section .service-content-container .subsection p {
+		display: none;
+	}
+
+	.service-section .service-content-container .small-screen-subsection,
+	.service-content #hire-personnel-btn {
+		display: block;
+	}
+
+	.service-section .prices-and-form #service-modal #close-service-modal {
+		display: -moz-box;
+		display: -webkit-flex;
+		display: flex;
+	}
+
+	.service-section.section-content {
+		padding: 25px 0 10px 0;
+	}
+
+	.service-section .personnel-navbar {
+		padding: 0 10px;
+	}
+
+	.service-section .personnel-navbar ul {
+		margin-bottom: 25px;
+	}
+
+	.service-section .personnel-navbar li {
+		margin: 2px 4px;
+	}
+
+	.service-section .personnel-navbar a {
+		font-size: 18px;
+		padding: 3px 10px;
+	}
+
+	.service-section .service-content {
+		padding: 0 33px;
+	}
+
+	.service-section .service-content-container {
+		padding: 0 10px;
+		margin: 18px 0 18px 0;
+	}
+
+	.service-section .service-content-section {
+		margin: 15px 0 20px 0;
+	}
+
+	.service-section .service-paragraph p {
+		font-size: 16px;
+	}
+
+	.service-section .service-content #hire-personnel-btn {
+		text-align: center;
+		margin-bottom: 20px;
+	}
+
+	.service-section .service-content #hire-personnel-btn button {
+		width: 70%;
+		font-size: 23px;
+		padding: 12px 0;
+		border-radius: 55px;
+		border: none;
+		background-color: #88BB24;
+		color: #fff;
+		margin-bottom: 0;
+	}
+
+	.service-section .price-table {
+		height: 60px;
+		margin-bottom: 0;
+		font-size: 25px;
+	}
+
+	.service-section .service-form-data .client-info {
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		-ms-flex-direction: row;
+		flex-direction: row;
+		-moz-box-pack: start;
+		-webkit-justify-content: flex-start;
+		justify-content: flex-start;
+		height: auto;
+	}
+
+	.service-section .service-form-data .client-info input {
+		width: 100%;
+		font-size: 17px;
+		padding: 15px;
+	}
+
+	.service-section .service-content-section #service-form .client-info input:first-child {
+		margin-top:0;
+	}
+
+	.service-section .service-content-section #service-form .client-info input:last-child {
+		margin-bottom: 0;
+	}
+
+	.service-section .service-form-data textarea {
+		font-size: 17px;
+		padding: 10px 15px;
+		margin-top: 0;
+	}
+
+	.service-section .service-content-container .subsection {
+		margin: 0;
+	}
+
+	/*about-company-page*/
+	.about-company .header {
+		height: 180px;
+	}
+
+	.about-company .about-company-section .section-content {
+		padding: 20px 27px 15px;
+	}
+
+	.about-company .section-content .about-company-title {
+		font-size: 32px;
+		margin-bottom: 25px;
+	}
+
+	.about-company .section-content .about-company-info {
+		-moz-box-direction: normal;
+		-moz-box-orient: vertical;
+		-webkit-flex-direction: column;
+		flex-direction: column;
+		padding: 0 13px;
+	}
+
+	.about-company .section-content .about-company-info .about-company-paragraph {
+		margin: 6px 0;
+	}
+
+	.about-company .section-content .about-company-info .about-company-paragraph:first-child {
+		margin-top: 0;
+	}
+
+	.about-company .section-content .about-company-info .about-company-paragraph:last-child {
+		margin-bottom: 0;
+	}
+	
+	.about-company .section-content .about-company-info p {
+		font-size: 15px;
+	}
+
+	/*footer*/
+	.footer {
+		padding: 16px 0;
+		background: linear-gradient(rgba(237, 121, 5, 0.5), rgba(237, 121, 5, 0.5)), url(images/1.jpg) no-repeat center;
+		background-size: cover;
+	}
+
+	.footer .section-content {
+		padding: 10px 30px 0 30px;
+	}
+
+	.footer .contact-data,
+	.footer .phone-number-and-emails {
+		-moz-box-direction: normal;
+		-moz-box-orient: vertical;
+		-webkit-flex-direction: column;
+		flex-direction: column;
+	}
+
+	.footer .phone-number-and-emails {
+		width: 100%;
+		margin-bottom: 35px;
+	}
+	
+	.footer .phone-number-and-emails .contact .contact-icon:last-child {
+		margin-right: 6px;
+	}
+
+	.footer .phone-numbers,
+	.footer .emails {
+		width: 100%;
+	}
+
+	.footer .contact-data .contact svg {
+		margin: 0 4px;
+	}
+
+	.footer .contact-data .contact svg {
+		width: 25px;
+		height: 25px
+	}
+
+	.footer .contact-data .contact.phone svg {
+		width: 22px;
+		height: 22px;
+	}
+
+	.footer .contact-data .contact .contact-icon {
+		display: -moz-box;
+		display: -webkit-flex;
+		display: flex;
+		-moz-box-align: end;
+		-webkit-align-items: flex-end;
+		align-items: flex-end;
+	}
+
+	.footer .contact-data a {
+		font-size: 19px;
+	}
+
+	.footer .phone-number-and-emails .contact {
+		margin: 7px 0;
+	}
+
+	.footer .phone-number-and-emails .contact.phone {
+		margin-bottom: 7px;
+	}
+
+	.footer .phone-number-and-emails .contact.email {
+		margin-top: 7px;
+	}
+
+	.footer .contact-data .contact .contact-icons {
+		width: 20%;
+	}
+
+	.footer .contact-data .contact .contact-link {
+		width: 80%;
+	}
+
+	.footer .contact-media {
+		width: 100%;
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		-ms-flex-direction: row;
+		flex-direction: row;
+		-moz-box-pack: start;
+		-webkit-justify-content: flex-start;
+		justify-content: flex-start;
+		-moz-box-align: center;
+		-webkit-align-items: center;
+		align-items: center;
+	}
+
+	.footer .contact-media .media-ref {
+		height: 50px;
+	}
+
+	.footer .contact-media .media-title {
+		margin: 0 20px 0 0;
+		font-size: 18px;
+	}
+}
+
+@media screen and (max-width: 375px) {
+	/*header*/
+	body,
+	.section-content {
+		width: 375px;
+	}
+
+	.header {
+		height: 240px;
+	}
+
+	.header-logo-and-burger-menu {
+		margin-bottom: 6px;
+	}
+
+	.header-burger-menu {
+		margin-bottom: 4px;
+		height: 21px;
+		min-width: 25px;
+		width: 25px;
+	}
+
+	.header-burger-menu span {
+		height: 5px;
+		left: 0;
+		top: 8px;
+	}
+
+	.header-burger-menu::before,
+	.header-burger-menu::after {
+		width: 100%;
+		height: 5px;
+	}
+
+	.header .section-content .header-logo-and-contacts {
+		padding: 0 27px 0 58px;	
+	}
+
+	.header .header-logo-and-contacts #adaptive-logo {
+		min-width: 103px;
+		height: 40px;
+		font-size: 22px;
+	}
+
+	.header .header-logo-and-contacts .phone-number-and-email-data {
+		width: 220px;
+	}
+
+	.header .header-logo-and-contacts .contact .contact-icon {
+		width: 20px;
+		height: 20px;
+		margin: 0 3px;
+	}
+
+	.header .header-logo-and-contacts .contact .contact-icons {
+		width: 24%;
+	}
+
+	.header .header-logo-and-contacts .contact .contact-link {
+		width: 76%;
+	}
+
+	.header .header-logo-and-contacts .phone.contact .contact-icon {
+		width: 19px;
+		height: 19px;
+	}
+
+	.header .header-logo-and-contacts .contact .contact-link a {
+		font-size: 19px;
+	}
+
+	.header #header-slogan h1 {
+		font-size: 24px;
+	}
+
+	.header .header-logo-and-contacts .logo-container.burger-menu-element.burger-menu-open {
+		height: 110px;
+	}
+
+	.header .header-logo-and-contacts .phone-number-and-email-container.burger-menu-element.burger-menu-open {
+		top: 100px;
+	}
+
+	.header .header-navbar.burger-menu-element.burger-menu-open {
+		top: 220px;
+		border-right: 6px solid #88BB24;
+		height: 490px;
+	}
+
+	.header .header-navbar-list a {
+		padding: 5px 0 13px 50px;
+		font-size: 19px;
+	}
+
+	.header .header-logo-and-contacts #logo {
+		min-width: 118px;
+		font-size: 17px;
+		height: 60px;
+		left: 25px;
+	}
+
+	.header .header-logo-and-contacts .contact-media.burger-menu-element.burger-menu-open {
+		top: 710px;
+		height: 100px;
+		padding: 22px 0 28px 65px;
+	}
+	
+	.header .header-logo-and-contacts .phone-number-and-email-container.burger-menu-open .phone-number-and-email-data {
+		margin-left: 18px;
+	}
+
+	.header .header-logo-and-contacts .contact-media a,
+	.header .header-logo-and-contacts .contact-media svg {
+		height: 24px;
+	}
+
+	.header .header-logo-and-contacts .contact-media-ref {
+		height: 30px;
+	}
+
+	.header .header-logo-and-contacts .contact-media-ref a {
+		margin: 0 4px;
+	}
+
+	.header .header-logo-and-contacts .contact-media a:hover,
+	.header .header-logo-and-contacts .contact-media a:hover svg {
+		height: 30px;
+	}
+
+	.header .header-logo-and-contacts .contact-media .media-title {
+		font-size: 15px;
+	}
+
+	/*personnel-section*/
+	.personnel-section .section-content {
+		padding: 0 27px;
+	}
+
+	.personnel-section .personnel-position-img {
+		height: 80px;
+		width: 80px;
+		border: rgb(176, 204, 176) 6px solid;
+	}
+
+	.personnel-section .personnel-list .personnel-position {
+		font-size: 14px;
+	}
+
+	.personnel-section .personnel-options-btns .option-btn {
+		width: 100%;
+		margin: 6px 0;
+	}
+
+	.personnel-section .choose-personnel-btn button,
+	.personnel-section .fill-cv-btn button {
+		padding: 14px 0;
+		font-size: 19px;
+	}
+
+	.personnel-section #personnel-modal {
+		width: 325px;
+		height: 325px;
+		box-shadow: 0 0 80px 140px #fff;
+	}
+
+	.personnel-section #personnel-modal #close-personnel-modal {
+		top: 30px;
+		right: 25px;
+		width: 40px;
+		height: 40px;
+		font-size: 45px;
+	}
+
+	.personnel-section #personnel-modal .personnel-modal-title {
+		font-size: 25px;
+		margin-bottom: 25px;
+	}
+
+	.personnel-section #personnel-modal textarea#personnel-modal-requirements {
+		height: 80px;
+		margin-bottom: 12px;
+	}
+
+	.personnel-section #personnel-modal .submit-personnel-modal-form input {
+		padding: 12px 23px;
+		font-size: 17px;
+	}
+
+	/*about-company-section*/
+	.about-company-section {
+		padding: 17px 0;
+	}
+
+	.about-company-section .about-company-data {
+		height: 170px;
+	}
+
+	.about-company-section .about-company-data .about-company-header {
+		margin-top: 7px;
+	}
+
+	.about-company-section .about-company-data .about-company-header-img {
+		margin-right: 20px;
+		width: 33px;
+		height: 33px;
+	}
+
+	.about-company-section .about-company-data .about-company-header h3 {
+		font-size: 24px;
+	}
+	
+	.about-company-section .about-company-trait {
+		padding: 0 20px;
+	}
+
+	.about-company-section .about-company-trait .about-company-trait-info {
+		font-size: 13px;	
+	}
+
+	.about-company-section .about-company-trait .about-company-trait-info {
+		padding-right: 5px;
+	}
+
+	.about-company-section .section-content .slide-btn {
+		font-size: 26px;
+	}
+
+	.about-company-section .section-content .previous-slide-btn.slide-btn {
+		left: 4px;
+	}
+
+	.about-company-section .section-content .next-slide-btn.slide-btn {
+		right: 17px;
+	}
+
+	/*contact-us-section*/
+	.contact-us-section #contact-us-modal,
+	.service-section .service-content-section #service-modal {
+		width: 315px;
+	}
+
+	.contact-us-section #contact-us-modal #close-contact-us-modal,
+	.service-section .service-content-section #service-modal #close-service-modal {
+		width: 35px;
+		height: 35px;
+		font-size: 32px;
+	}
+
+	.contact-us-section #contact-us-form,
+	.service-section .service-content-section #service-form {
+		padding: 55px 35px 0 35px;
+	}
+
+	.contact-us-section #contact-us-form .contact-us-form-data .circular-background,
+	.service-section .service-content-section #service-form .service-form-data .circular-background {
+		top: 23px;
+		width: 245px;
+		height: 245px;
+		box-shadow: 0 0 120px 190px #fff;
+	}
+
+	#contact-us-form .client-info input,
+	.service-section .service-content-section #service-form .client-info input {
+		height: 40px;
+		font-size: 17px;
+	}
+
+	#contact-us-form .client-question-textarea textarea,
+	.service-section .service-content-section #service-form .client-wishes-textarea textarea {
+		height: 140px;
+		font-size: 17px;
+	}
+
+	.contact-us-section .submit-form,
+	.service-section .submit-form {
+		margin-top: 10px;
+	}
+
+	.contact-us-section .submit-form .submit-btn,
+	.service-section .submit-form .submit-btn {
+		height: 40px;
+		width: 140px;
+		font-size: 17px;
+	}
+
+	.contact-us-section .section-content {
+		padding: 0 62px;
+	}
+
+	.contact-us-section #ask-question-btn button {
+		padding: 14px 0;
+		font-size: 19px;
+	}
+
+	/*service-section*/
+	.service-section.section-content {
+		padding: 20px 0 5px 0;
+	}
+
+	.service-section .service-content {
+		padding: 0 31px;
+	}
+
+	.service-section .personnel-navbar {
+		padding: 0 8px;
+	}
+
+	.service-section .personnel-navbar li {
+		margin: 2px 3px;
+	}
+
+	.service-section .personnel-navbar a {
+		font-size: 16px;
+		padding: 2px 8px;
+	}
+
+	.service-section .personnel-navbar ul {
+		margin-bottom: 23px;
+	}
+
+	.service-section .personnel-position {
+		font-size: 19px;
+	}
+
+	.service-section .service-paragraph p {
+		font-size: 14px;
+		margin-bottom: 32px;
+	}
+	
+	.service-section .service-content-container {
+		padding: 0 8px;
+		margin: 17px 0;
+	}
+
+	.service-section .service-content #hire-personnel-btn {
+		margin-bottom: 17px;
+	}
+
+	.service-section .service-content #hire-personnel-btn button {
+		padding: 10px 0;
+		font-size: 20px;
+	}
+
+	.service-section .price-table {
+		height: 55px;
+		font-size: 22px;
+	}
+
+	/*about-company-page*/
+	.about-company .header {
+		height: 160px;
+	}
+
+	.about-company .about-company-section .section-content {
+		padding: 17px 25px 12px;
+	}
+
+	.about-company .section-content .about-company-title {
+		font-size: 28px;
+		margin-bottom: 21px;
+	}
+
+	.about-company .section-content .about-company-info {
+		padding: 0 12px;
+	}
+
+	.about-company .section-content .about-company-info .about-company-paragraph {
+		margin: 4px 0;
+	}
+
+	.about-company .section-content .about-company-info p {
+		font-size: 13px;
+	}
+
+	/*footer*/
+	.footer {
+		padding: 13px 0;
+	}
+
+	.footer .section-content {
+		padding: 8px 25px 0 25px;
+	}
+
+	.footer .phone-number-and-emails {
+		margin-bottom: 28px;
+	}
+
+	.footer .contact-data .contact svg {
+		width: 23px;
+		height: 23px
+	}
+
+	.footer .contact-data .contact.phone svg {
+		width: 20px;
+		height: 20px;
+	}
+
+	.footer .contact-data a {
+		font-size: 17px;
+	}
+
+	.footer .contact-media .media-title {
+		font-size: 16px;
+	}
+
+	.footer .contact-media a {
+		margin: 0 5px;
+		height: 31px;
+	}
+
+	.footer .contact-media svg {
+		height: 31px;
+	}
+
+	.footer .contact-media a:hover,
+	.footer .contact-media a:hover svg {
+		height: 43px;
+	}
+
+	.footer .contact-media .media-ref {
+		height: 43px;
+	}
+
+	.footer .contact-data .contact .contact-icons {
+		width: 22%;
+	}
+
+	.footer .contact-data .contact .contact-link {
+		width: 78%;
+	}
+}
+
+@media screen and (max-width: 320px) {
+	/*header*/
+	body,
+	.section-content {
+		width: 320px;
+	}
+
+	.header {
+		height: 210px;
+	}
+
+	.header .section-content .header-logo-and-contacts {
+		padding: 0 23px 0 50px;
+	}
+
+	.header .header-logo-and-contacts #adaptive-logo {
+		min-width: 90px;
+		height: 36px;
+		font-size: 19px;
+	}
+
+	.header-logo-and-burger-menu {
+		margin-bottom: 3px;
+	}
+
+	.header-burger-menu {
+		margin-bottom: 5px;
+		height: 19px;
+		min-width: 22px;
+		width: 22px;
+	}
+
+	.header-burger-menu span {
+		height: 5px;
+		left: 0;
+		top: 7px;
+	}
+
+	.header-burger-menu::before,
+	.header-burger-menu::after {
+		width: 100%;
+		height: 5px;
+	}
+
+	.header .header-logo-and-contacts .contact-data {
+		min-width: 150px;
+	}
+
+	.header .header-logo-and-contacts .phone-number-and-email-data {
+		width: 190px;
+		margin-top: 6px;
+	}
+
+	.header .header-logo-and-contacts .contact .contact-icon {
+		width: 17px;
+		height: 17px;
+		margin: 0 3px;
+	}
+
+	.header .header-logo-and-contacts .contact .contact-link {
+		width: 76%;
+	}
+
+	.header .header-logo-and-contacts .contact .contact-icons {
+		width: 24%;
+	}
+
+	.header .header-logo-and-contacts .phone.contact .contact-icon {
+		width: 16px;
+		height: 16px;
+	}
+
+	.header .header-logo-and-contacts .contact .contact-icon:last-child {
+		margin-right: 6px;
+	}
+
+	.header .header-logo-and-contacts .contact .contact-link a {
+		font-size: 16px;
+	}
+
+	.header .section-content #header-slogan {
+		padding: 0 44px;
+	}
+
+	.header #header-slogan {
+		margin-top: 10px;
+	}
+
+	.header #header-slogan h1 {
+		font-size: 20px;
+	}
+
+	.header .header-logo-and-contacts .logo-container.burger-menu-element.burger-menu-open {
+		height: 90px;
+	}
+
+	.header .header-logo-and-contacts .phone-number-and-email-container.burger-menu-element.burger-menu-open {
+		top: 80px;
+		height: 110px 
+	}
+
+	.header .header-navbar.burger-menu-element.burger-menu-open {
+		top: 190px;
+		border-right: 5px solid #88BB24;
+		height: 425px;
+	}
+
+	.header .header-navbar-list a {
+		padding: 4px 0 11px 42px;
+		font-size: 16px;
+	}
+
+	.header .header-logo-and-contacts #logo {
+		min-width: 100px;
+		font-size: 14px;
+		height: 50px;
+		left: 20px;
+	}
+
+	.header .header-logo-and-contacts .contact-media.burger-menu-element.burger-menu-open {
+		top: 615px;
+		height: 100px;
+		padding: 20px 0 25px 55px;
+	}
+
+	.header .header-logo-and-contacts .phone-number-and-email-container.burger-menu-open .phone-number-and-email-data {
+		margin-left: 15px;
+	}
+
+	.header .header-logo-and-contacts .contact-media a,
+	.header .header-logo-and-contacts .contact-media svg {
+		height: 21px;
+	}
+
+	.header .header-logo-and-contacts .contact-media-ref {
+		height: 27px;
+	}
+
+	.header .header-logo-and-contacts .contact-media-ref a {
+		margin: 0 3px;
+	}
+
+	.header .header-logo-and-contacts .contact-media a:hover,
+	.header .header-logo-and-contacts .contact-media a:hover svg {
+		height: 27px;
+	}
+
+	.header .header-logo-and-contacts .contact-media .media-title {
+		font-size: 13px;
+	}
+
+	/*personnel-section*/
+	.personnel-section .section-content {
+		padding: 0 20px;
+	}
+
+	.personnel-section .personnel-position-img {
+		height: 70px;
+		width: 70px;
+		border: rgb(176, 204, 176) 5px solid;
+	}
+
+	.personnel-section .personnel-list .personnel-position {
+		font-size: 12px;
+	}
+
+	.personnel-section .personnel-options-btns {
+		padding: 0 30px;
+	}
+
+	.personnel-section .choose-personnel-btn button,
+	.personnel-section .fill-cv-btn button {
+		padding: 10px 0;
+		font-size: 17px;
+	}
+
+	.personnel-section #personnel-modal {
+		width: 280px;
+		height: 280px;
+		box-shadow: 0 0 50px 120px #fff;
+	}
+
+	.personnel-section #personnel-modal #close-personnel-modal {
+		top: 25px;
+		right: 20px;
+		width: 35px;
+		height: 35px;
+		font-size: 40px;
+	}
+
+	.personnel-section #personnel-modal .personnel-modal-title {
+		font-size: 22px;
+		margin-bottom: 20px;
+	}
+
+	.personnel-section #personnel-modal textarea#personnel-modal-requirements {
+		height: 70px;
+		margin-bottom: 10px;
+	}
+
+	.personnel-section #personnel-modal .submit-personnel-modal-form input {
+		padding: 11px 20px;
+		font-size: 15px;
+	}
+
+	/*about-company-section*/
+	.about-company-section {
+		padding: 12px 0;
+	}
+
+	.about-company-section .about-company-data {
+		height: 150px;
+	}
+
+	.about-company-section .about-company-data .about-company-header {
+		margin-top: 7px;
+		margin-bottom: 15px;
+	}
+
+	.about-company-section .about-company-data .about-company-header-img {
+		margin-right: 15px;
+		width: 28px;
+		height: 28px;
+	}
+
+	.about-company-section .about-company-data .about-company-header h3 {
+		font-size: 21px;
+	}
+	
+	.about-company-section .about-company-trait {
+		padding: 0 15px;
+	}
+
+	.about-company-section .about-company-trait .about-company-trait-info {
+		font-size: 11px;	
+	}
+
+	.about-company-section .about-company-trait .about-company-trait-info {
+		padding-right: 6px;
+	}
+
+	.about-company-section .section-content .slide-btn {
+		font-size: 23px;
+	}
+
+	.about-company-section .section-content .slide-btn {
+		top: 11px;
+	}
+
+	.about-company-section .section-content .previous-slide-btn.slide-btn {
+		left: 4px;
+	}
+
+	.about-company-section .section-content .next-slide-btn.slide-btn {
+		right: 14px;
+	}
+
+	/*contact-us-section*/
+	.contact-us-section #contact-us-modal,
+	.service-section .service-content-section #service-modal {
+		width: 260px;
+	}
+
+	.contact-us-section #contact-us-modal #close-contact-us-modal,
+	.service-section .service-content-section #service-modal #close-service-modal {
+		width: 30px;
+		height: 30px;
+		font-size: 30px;
+	}
+
+	.contact-us-section #contact-us-form,
+	.service-section .service-content-section #service-form {
+		padding: 50px 28px 0 28px;
+	}
+
+	.contact-us-section #contact-us-form .contact-us-form-data .circular-background,
+	.service-section .service-content-section #service-form .service-form-data .circular-background {
+		top: 22.5px;
+		width: 204px;
+		height: 204px;
+		box-shadow: 0 0 120px 190px #fff;
+	}
+
+	#contact-us-form .client-info input,
+	.service-section .service-content-section #service-form .client-info input {
+		height: 35px;
+		margin: 3px 0;
+		font-size: 15px;
+		padding: 15px;
+	}
+
+	#contact-us-form .client-info,
+	.service-section .service-content-section #service-form .client-info {
+		margin-bottom: 8px;
+	}
+
+	#contact-us-form .client-question-textarea textarea,
+	.service-section .service-content-section #service-form .client-wishes-textarea textarea {
+		height: 120px;
+		font-size: 15px;
+		padding: 10px 15px;
+	}
+
+	.contact-us-section .submit-form,
+	.service-section .submit-form {
+		margin-top: 8px;
+	}
+
+	.contact-us-section .submit-form .submit-btn,
+	.service-section .submit-form .submit-btn {
+		height: 35px;
+		width: 120px;
+		font-size: 15px;
+	}
+
+	.contact-us-section .section-content {
+		padding: 0 50px;
+	}
+
+	.contact-us-section #ask-question-btn button {
+		padding: 10px 0;
+		font-size: 17px;
+	}
+
+	/*service-section*/
+	.service-section.section-content {
+		padding: 15px 0 5px 0;
+	}
+
+	.service-section .service-content-section {
+		margin: 15px 0 11px 0;
+	}
+
+	.service-section .service-content {
+		padding: 0 25px;
+	}
+
+	.service-section .personnel-navbar {
+		padding: 0 5px;
+	}
+
+	.service-section .personnel-navbar li {
+		margin: 2px 3px;
+	}
+
+	.service-section .personnel-navbar a {
+		font-size: 14px;
+		padding: 1px 6px;
+	}
+
+	.service-section .personnel-navbar ul {
+		margin-bottom: 21px;
+	}
+
+	.service-section .personnel-position {
+		font-size: 17px;
+	}
+
+	.service-section .service-paragraph p {
+		font-size: 12px;
+		margin-bottom: 32px;
+	}
+
+	.service-section .service-content-container {
+		padding: 0 8px;
+		margin: 14px 0;
+	}
+
+	.service-section .service-content #hire-personnel-btn {
+		margin-bottom: 13px;
+	}
+
+	.service-section .service-content #hire-personnel-btn button {
+		padding: 8px 0;
+		font-size: 17px;
+	}
+
+	.service-section .price-table {
+		height: 45px;
+		font-size: 19px;
+	}
+
+	/*about-company-page*/
+	.about-company .header {
+		height: 140px;
+	}
+
+	.about-company .about-company-section .section-content {
+		padding: 14px 22px 9px;
+	}
+
+	.about-company .section-content .about-company-title {
+		font-size: 24px;
+		margin-bottom: 17px;
+	}
+
+	.about-company .section-content .about-company-info {
+		padding: 0 11px;
+	}
+
+	.about-company .section-content .about-company-info .about-company-paragraph {
+		margin: 3px 0;
+	}
+	
+	.about-company .section-content .about-company-info p {
+		font-size: 11px;
+	}
+
+	/*footer*/
+	.footer {
+		padding: 10px 0;
+	}
+
+	.footer .section-content {
+		padding: 8px 10px 0 15px;
+	}
+
+	.footer .phone-number-and-emails {
+		margin-bottom: 20px;
+	}
+
+	.footer .contact-data .contact svg {
+		width: 20px;
+		height: 20px
+	}
+
+	.footer .contact-data .contact.phone svg {
+		width: 17px;
+		height: 17px;
+	}
+
+	.footer .contact-data a {
+		font-size: 14px;
+	}
+
+	.footer .contact-media .media-title {
+		font-size: 14px;
+		margin: 0 14px 0 0;
+	}
+
+	.footer .contact-media a {
+		margin: 0 5px;
+		height: 28px;
+	}
+
+	.footer .contact-media svg {
+		height: 28px;	
+	}
+
+	.footer .contact-media a:hover,
+	.footer .contact-media a:hover svg {
+		height: 38px;
+	}
+
+	.footer .contact-media .media-ref {
+		height: 38px;
+	}
+
+	.footer .contact-data .contact .contact-icons {
+		width: 24%;
+	}
+
+	.footer .contact-data .contact .contact-link {
+		width: 76%;
+	}
+}
